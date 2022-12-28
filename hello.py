@@ -1,1 +1,6 @@
-print('Hello, world!' )
+"""
+Doc string
+author: John Doe
+"""
+
+print('Hello, world!')
